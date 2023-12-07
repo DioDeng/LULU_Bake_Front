@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[632],{5632:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var u=r(6252);function t(e,n){return(0,u.wg)(),(0,u.iD)("div",null," Order ")}var c=r(3744);const a={},f=(0,c.Z)(a,[["render",t]]);var i=f}}]);
-//# sourceMappingURL=632.e0d0bea0.js.map
