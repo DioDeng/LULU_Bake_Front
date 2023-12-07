@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[100],{8100:function(n,e,r){r.r(e),r.d(e,{default:function(){return i}});var u=r(6252);function t(n,e){return(0,u.wg)(),(0,u.iD)("div",null," 收藏 ")}var c=r(3744);const a={},f=(0,c.Z)(a,[["render",t]]);var i=f}}]);
+//# sourceMappingURL=100.3f69a133.js.map
