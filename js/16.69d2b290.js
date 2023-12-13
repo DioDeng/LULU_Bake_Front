@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[16],{2016:function(s,t,e){e.r(t),e.d(t,{default:function(){return u}});var o=e(6252);const n={class:"card-body"};function r(s,t,e,r,c,a){return(0,o.wg)(),(0,o.iD)("div",n)}var c={methods:{updatePassword(){const s="http://127.0.0.1:3000/user/updatePassword";this.$http.patch(s,{password:"qq222485kk",confirmPassword:"qq222485kk"}).then((s=>{console.log(s)})).catch((s=>{console.log(s)}))}}},a=e(3744);const d=(0,a.Z)(c,[["render",r]]);var u=d}}]);
+//# sourceMappingURL=16.69d2b290.js.map
