@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[246],{1246:function(n,e,r){r.r(e),r.d(e,{default:function(){return i}});var u=r(6252);function t(n,e){return(0,u.wg)(),(0,u.iD)("div",null," 登出 ")}var c=r(3744);const a={},f=(0,c.Z)(a,[["render",t]]);var i=f}}]);
-//# sourceMappingURL=246.4bd5a822.js.map
