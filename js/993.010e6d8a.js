@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[993],{9993:function(e,n,r){function u(e,n){return" 我是文章 "}r.r(n),r.d(n,{default:function(){return s}});var t=r(3744);const c={},f=(0,t.Z)(c,[["render",u]]);var s=f}}]);
-//# sourceMappingURL=993.010e6d8a.js.map
