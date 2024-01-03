@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[273],{6273:function(e,t,u){u.r(t),u.d(t,{default:function(){return c}});u(560);var n={mounted(){this.$router.push("/")},created(){document.cookie="LULU-Bake=;expires=;path=/"}};const r=n;var c=r}}]);
-//# sourceMappingURL=273.1243695e.js.map
