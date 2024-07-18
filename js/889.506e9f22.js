@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[889],{8889:function(e,n,r){function u(e,n){return" 我是訂單完成 "}r.r(n),r.d(n,{default:function(){return s}});var t=r(6262);const c={},f=(0,t.A)(c,[["render",u]]);var s=f}}]);
+//# sourceMappingURL=889.506e9f22.js.map
